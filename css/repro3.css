@@ -61,7 +61,7 @@ body {
 
 
 .CMUSIC {
-  background: url('https://xatimg.com/image/SEyJReoCsBHz.png');
+  background: url('https://xatimg.com/image/Qa1JFMulOa7L.png');
   background-repeat: no-repeat;
   background-position: top;
   position: relative;
@@ -650,5 +650,6 @@ left: 508px;
 .marquee.marquee-direction-normal:before {
   animation-direction: normal;
 }
+
 
 
