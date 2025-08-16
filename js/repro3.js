@@ -496,9 +496,10 @@ return j.call(r(a),c)})),b))for(;i>h;h++)b(a[h],c,g?d:d.call(a[h],h,b(a[h],c)));
 
 
               $("#stream1").icast({
-          	     URL:  "https://antyserv.in/8100/stream",
+          	     URL:  "https://technoplayerserver.net/8200/stream",
           		version: "2",
 
               })
+
 
 
